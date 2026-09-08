@@ -53,4 +53,4 @@ group :development do
   gem "web-console"
 end
 
-gem "openai", "~> 0.80.0"
+gem "openai", "~> 0.85.0"
